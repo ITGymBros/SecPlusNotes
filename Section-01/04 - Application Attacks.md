@@ -70,7 +70,7 @@
 	- fileA.txt is corrupted as it has 2 different version at the same time.
 	- Integrity problem 
 
-### Pointer / object Dereference
+### Pointer / object Dereferance
 - Common in some programming languages (C/C++)
 - Allows access to memory
 - Code execution or denial of service
