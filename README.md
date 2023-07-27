@@ -2,7 +2,7 @@
 
 ### Description
 
-These are my notes regarding the CompTIA Security+ SY0-601. For the best readability of these notes, please use [Obsidian](https://obsidian.md) to view them. 
+This repository contains ongoing notes regarding the CompTIA Security+ SY0-601. For the best readability of these notes, please use [Obsidian](https://obsidian.md) to view them. 
 
 ### Topics Covered
 
@@ -14,13 +14,13 @@ The domains that are covered in the SY0-601 are as such:
 - Operations and Incident Response
 - Governance, Risk, and Compliance
 
-You can get a more detailed breakdown of how these topics are introduced by checking the [Exam Objectives](/docs/comptia-security-sy0-601-exam-objectives-(2-0).pdf). 
+To get a more detailed breakdown of how these topics are introduced, please check the [Exam Objectives](docs/pdfs/comptia-security-sy0-601-exam-objectives.pdf). 
 
 ### How the notes are organized
 
-The notes are organised by "Chapter" and then further broken up into "sections". This is because of the studying resource I am using, [ITPro.tv](https://www.itpro.tv/), has it formatted this way. The sections that I have completed will be noted with a check mark. Furthermore, any chapters that have been completed will also will be noted with a checkmark.
+The notes are organised by "Chapter" and then further broken up into "sections". This is because of the studying resource being using, [ITPro.tv](https://www.itpro.tv/), has it formatted this way. The sections that have been completed will be noted with a check mark. Furthermore, any chapters that have been completed will also will be noted with a checkmark.
 
-Here is what you can expect from my notes going forward:
+Here is what you can expect from the notes going forward:
 
 - [ ] Chapter-01 | Threats, Attacks, and Vulnerabilities
 	- [X] [Section 01 - Social Engineering](Chapter-01/01-SocialEngineering.md)

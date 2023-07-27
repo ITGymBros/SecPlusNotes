@@ -14,20 +14,20 @@
 - Command Injection
 
 ### SQL Injection
-![Fileless](04_AA_Image_01.png)
+![Fileless](../docs/assets/Chapter-01/04_AA_Image_01.png)
 
 ### LDAP Injection
-![Fileless](04_AA_Image_02.png)
+![Fileless](../docs/assets/Chapter-01/04_AA_Image_02.png)
 
 ### XML Injection
-![Fileless](04_AA_Image_03.png)
+![Fileless](../docs/assets/Chapter-01/04_AA_Image_03.png)
 - Would dump /etc/shadow file for password hashes
 
 ### DLL Injection
-![Fileless](04_AA_Image_04.png)
+![Fileless](../docs/assets/Chapter-01/04_AA_Image_04.png)
 
 ### Command Injection
-![Fileless](04_AA_Image_05.png)
+![Fileless](../docs/assets/Chapter-01/04_AA_Image_05.png)
 
 ## System Resources
 - The components that provide its inherent capabilities and contribute to its overall performance; Internal tables and pointers set up to keep track of running applications
@@ -60,7 +60,7 @@
 	 - Exploitable
 
 ## Race Conditions
-![Race Conditions](04_AA_Image_06.png)
+![Race Conditions](../docs/assets/Chapter-01/04_AA_Image_06.png)
 
 ### Time of Check/Time of Use (TOC/TOU) 
 - Example
@@ -76,5 +76,5 @@
 - Code execution or denial of service
 
 ### Integer Overflow
-![Integer Overflow](04_AA_Image_07.png)
+![Integer Overflow](../docs/assets/Chapter-01/04_AA_Image_07.png)
 - This flips the bits causing the integer to overflow

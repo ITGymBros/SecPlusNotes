@@ -1,5 +1,5 @@
 ### CIA Triad
-![CIA Triad](01_SE_Image_01.png)
+![CIA Triad](../docs/assets/Chapter-01/01_SE_Image_01.png)
 
 - Confidentiality - Making sure only authorized users have access to the information
 - Integrity - Making sure data has not been tampered with and can be trusted
@@ -37,7 +37,7 @@
 	- Spim (instant messaging)
 
 ### Phishing Example
-![Phishing Example](01_SE_Image_02.png)
+![Phishing Example](../docs/assets/Chapter-01/01_SE_Image_02.png)
 
 ### Vishing
 - Where a hacker tries to gain personal info over the phone
@@ -57,10 +57,10 @@
 - Authority
 
 ### Pharming
-![Pharming Attack](01_SE_Image_03.png)
+![Pharming Attack](../docs/assets/Chapter-01/01_SE_Image_03.png)
 
 ### Watering Hole Attack
-![Watering Hole Attack](01_SE_Image_04.png)
+![Watering Hole Attack](../docs/assets/Chapter-01/01_SE_Image_04.png)
 
 ### Credential harvesting
 - Collecting large amounts of login information/ access credentials.
