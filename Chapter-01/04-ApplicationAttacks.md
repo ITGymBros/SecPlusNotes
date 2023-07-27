@@ -78,3 +78,55 @@
 ### Integer Overflow
 ![Integer Overflow](../docs/assets/Chapter-01/04_AA_Image_07.png)
 - This flips the bits causing the integer to overflow
+
+## XSS & CSRF
+- Cross-site Scripting (XSS) -  a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites.
+- Cross-site Request Forgeries (CSRF) - an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.
+
+### Cross-site Scripting Types
+- Reflected XSS
+- Stored XSS
+- DOM-based XSS
+
+### Reflected XSS
+![Reflected XSS](../docs/assets/Chapter-01/04_AA_Image_08.png)
+
+### Stored XSS
+![Reflected XSS](../docs/assets/Chapter-01/04_AA_Image_09.png)
+
+### DOM-based XSS
+- Advanced types of XSS
+- Process untrusted data
+- Writes to the DOM
+- Client-side attack
+- One of the more advanced attacks
+
+### Request Forgery Types
+- Cross-site request forgery
+- Server-side vs. Client-side
+
+### Cross-site Request Forgery
+![Reflected XSS](../docs/assets/Chapter-01/04_AA_Image_10.png)
+
+### Server-side Request Forgery
+![Reflected XSS](../docs/assets/Chapter-01/04_AA_Image_11.png)
+
+## Replay Attacks
+- Retransmission of data
+- Example:
+	- User logins to resource server that is behind login server
+	- Hacker captures verified login creds through MITM attack
+	- The hacker is able to then retransmits or "replays" the resource request at a later time, bypassing the login server.
+ - Wireshark can be a tool capture creds
+ 
+## Pass the Hash 
+- Works in similar function to replay attack
+- Example:
+	- User logins to to Login Server
+	- Hacker captures login hash
+	- Hacker replays to Login Server
+	- Login Server verifies hash
+	- Hacker is let into system
+- Counter Measures
+	- Time stamping in TCP packets
+		- Captured information is invalid because it is not current
