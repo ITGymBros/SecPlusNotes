@@ -21,7 +21,9 @@
 
 ### XML Injection
 ![Fileless](../docs/assets/Chapter-01/04_AA_Image_03.png)
-- Would dump /etc/shadow file for password hashes
+- Would dump: 
+	- /etc/shadow file for password hashes
+	- /etc/passwd for user list
 
 ### DLL Injection
 ![Fileless](../docs/assets/Chapter-01/04_AA_Image_04.png)

@@ -59,6 +59,7 @@
 ### Pharming
 ![Pharming Attack](../docs/assets/Chapter-01/01_SE_Image_03.png)
 
+
 ### Watering Hole Attack
 ![Watering Hole Attack](../docs/assets/Chapter-01/01_SE_Image_04.png)
 
