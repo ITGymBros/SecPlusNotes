@@ -27,7 +27,7 @@ Here is what you can expect from the notes going forward:
 	- [X] [Section 02 - Malware](Chapter-01/02-Malware.md)
 	- [X] [Section 03 - Password Attacks](Chapter-01/03-PasswordAttacks.md)
 	- [X] [Section 04 - Application Attacks](Chapter-01/04-ApplicationAttacks.md)
-	- [ ] Section 05 - Network Attacks
+	- [ ] [Section 05 - Network Attacks](Chapter-01/05-NetworkAttacks.md)
 	- [ ] Section 06 - Vulnerabilities
 	- [ ] Section 07 - Threat Intelligence
 	- [ ] Section 08 - Threat Actors and Vectors
